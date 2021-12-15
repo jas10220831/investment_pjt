@@ -49,3 +49,9 @@ import platfrom
 print(architecture())
 ```
 
+### 12/15
+
+- 대신증권 API 연결 성공
+  - 관리자 권한으로 VScode 실행해야 한다.
+- 모의투자 계좌 생성 및 정보 조회 성공 
+- 
